@@ -23,10 +23,9 @@ I am a software engineer, graduated from The University of Texas at Austin with 
 - 👨🏽‍💻 Job hunting for a software engineer role
 - 💻 Building websites for clients
 
-Check out my [coding portfolio!](https://lonestardev.net)
-
 ## 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danielgonzalezswen/)
+Check out my [coding portfolio!](https://lonestardev.net)
 
 # 💻 Tech Stack:
 Languages: 
