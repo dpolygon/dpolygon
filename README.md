@@ -25,17 +25,8 @@ I am a software engineer, graduated from The University of Texas at Austin with 
 
 Check out my [coding portfolio!](https://lonestardev.net)
 
-## 🎓 About Me
-
-I'm also an educational coding content creator, sharing my coding passion, and any advice on:
-
-- [Instagram](https://www.instagram.com/swerikcodes/)
-- [TikTok](https://www.tiktok.com/@swerikcodes)
-- [YouTube](https://www.youtube.com/channel/UCgKFOz_KrMbmypWrawtzDQg)
-
-
 ## 🌐 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erik-cupsa/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/swendannygonzalez/)
 
 # 💻 Tech Stack:
 Languages: 
