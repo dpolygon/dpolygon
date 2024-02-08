@@ -14,9 +14,8 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋 I'm Daniel Gonzalez</h1>
-<span style="text-align: center;">
-      [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=dpolygon&theme=transparent&hide_border=true&mode=weekly)](https://git.io/streak-stats)  
-</span>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=dpolygon&theme=transparent&hide_border=true&mode=weekly)](https://git.io/streak-stats)  
 
 # 💫 About Me:
 I am a software engineer, graduated from The University of Texas at Austin with my B.S. in C.S. Im passionate about creating apps that serve to solve problems!
