@@ -26,7 +26,7 @@ I am a software engineer, graduated from The University of Texas at Austin with 
 Check out my [coding portfolio!](https://lonestardev.net)
 
 ## 🌐 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/swendannygonzalez/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/swendanielgonzalez/)
 
 # 💻 Tech Stack:
 Languages: 
