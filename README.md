@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi 👋 I'm Erik Cupsa</h1>
+<h1 align="center">Hi 👋 I'm Daniel Gonzalez</h1>
 
 # 💫 About Me:
 I am a software engineer, graduated from The University of Texas at Austin with my B.S. in C.S. Im passionate about creating apps that serve to solve problems!
