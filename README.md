@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi 👋 I'm Daniel Gonzalez</h1>
+<h1>Hi 👋 I'm Daniel Gonzalez</h1>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=dpolygon&theme=transparent&hide_border=true&mode=weekly)](https://git.io/streak-stats)  
 
